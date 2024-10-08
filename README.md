@@ -1,6 +1,6 @@
 <br/>
 
-### <div align="center">코드를 넘어 문제의 해결과 본질에 집중하는 솔루션 디자이너, 강동혁입니다 🚀</div>
+### <div align="center">코드를 넘어 문제의 본질과 해결에 집중하는 솔루션 디자이너, 강동혁입니다 🚀</div>
 <br/>
 <div align="center">
   <a href='https://www.linkedin.com/in/yourprofile' target="_blank">
