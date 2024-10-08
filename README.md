@@ -11,7 +11,10 @@
     </picture>
   </a>
 </div>
-
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cucumber5252&layout=compact&theme=default" alt="Top Languages"/>
+</p>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
