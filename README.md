@@ -12,7 +12,7 @@
 </div>
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cucumber5252&layout=compact&theme=default" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cucumber5252&layout=compact" alt="Top Languages" />
 </p>
 <br/>
 <br/>
