@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=3">
-  <img src="./assets/banner-light.svg?v=3" width="100%" alt="강동혁 Donghyuk Kang, Builder">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=4">
+  <img src="./assets/banner-light.svg?v=4" width="100%" alt="강동혁 Donghyuk Kang, Builder">
 </picture>
 
 <p align="center">
