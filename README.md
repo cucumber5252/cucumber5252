@@ -12,11 +12,33 @@
 
 ## Projects
 
+**Products**
+
 <table>
-  <tr><td><a href="https://github.com/greedy-co"><b>ABTO</b></a></td><td>LLM 모델 A/B 테스트 게이트웨이</td></tr>
-  <tr><td><a href="https://luckti.me"><b>럭타임</b></a></td><td>티켓팅용 서버시간 조회 서비스</td></tr>
-  <tr><td><a href="https://github.com/AnotherUniverseAU"><b>Another Universe</b></a></td><td>캐릭터 AI 채팅 앱, 공동창업</td></tr>
-  <tr><td><a href="https://github.com/cucumber5252/Automatic_Document_Classification_Program"><b>공문 자동 분류</b></a></td><td>OCR 기반 문서 분류 자동화</td></tr>
+  <tr><td><a href="https://github.com/greedy-co"><b>ABTO</b></a></td><td>LLM 모델 A/B 테스트 게이트웨이</td><td>2026.04 ~ 현재</td></tr>
+  <tr><td><a href="https://luckti.me"><b>럭타임</b></a></td><td>티켓팅용 밀리초 서버시간 조회 서비스</td><td>2025.01 ~ 2025.08</td></tr>
+  <tr><td><b>KU:EX</b></td><td>고려대 교환학생 정보 공유 플랫폼</td><td>2025.07</td></tr>
+  <tr><td><a href="https://github.com/AnotherUniverseAU"><b>Another Universe</b></a></td><td>캐릭터 AI 채팅 앱, 공동창업</td><td>2023.09 ~ 2024.06</td></tr>
+  <tr><td><a href="https://github.com/cucumber5252/Automatic_Document_Classification_Program"><b>공문 자동 분류</b></a></td><td>OCR 기반 공문 분류 자동화</td><td>2022 ~ 2023</td></tr>
+</table>
+
+**Side Projects**
+
+<table>
+  <tr><td><b>SOMA 기획 파트너</b></td><td>LLM으로 마에스트로 기획안 중복을 분석하는 에이전트</td><td>2026.05</td></tr>
+  <tr><td><a href="https://github.com/2024-Inthon-Team1"><b>3.81mm</b></a></td><td>음악 취향 기반 데이팅 앱, INTHON 2024</td><td>2024.11</td></tr>
+  <tr><td><a href="https://github.com/cucumber5252/KWEB_Online_Education_Platform"><b>KWEB 교육 플랫폼</b></a></td><td>24시간 안에 만든 온라인 교육 플랫폼</td><td>2024.09</td></tr>
+  <tr><td><a href="https://next-ku.com"><b>NEXT 홈페이지</b></a></td><td>고려대 소프트웨어 창업학회 NEXT 공식 홈페이지</td><td>2024 ~ 2025</td></tr>
+  <tr><td><a href="https://github.com/cucumber5252/NEXT_BadgeBadge"><b>뺏지뺏지</b></a></td><td>축제 대기 시간에 즐기는 실시간 게임</td><td>2023.09</td></tr>
+  <tr><td><a href="https://github.com/cucumber5252/NEXT_ZIP"><b>ZIP</b></a></td><td>고려대 자취방 후기 플랫폼</td><td>2023.05 ~ 2023.06</td></tr>
+</table>
+
+**Research**
+
+<table>
+  <tr><td><b>멀티모달 순차 추천</b></td><td>개념 단위로 개인화하는 추천 모델, 1저자</td><td>2026.03 ~ 현재</td></tr>
+  <tr><td><b>LGAD</b></td><td>LLM 가이드 Dense Retrieval 지식 증류</td><td>2026.05</td></tr>
+  <tr><td><b>서사 유사성 판단</b></td><td>TUM NLP 연구실, LLM 기반 서사 구조 비교</td><td>2025.10 ~ 2026.02</td></tr>
 </table>
 
 ## Experience
