@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img src="./assets/banner-light.svg" width="100%" alt="강동혁 Donghyuk Kang, Builder">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg?v=3">
+  <img src="./assets/banner-light.svg?v=3" width="100%" alt="강동혁 Donghyuk Kang, Builder">
 </picture>
 
 <p align="center">
@@ -10,18 +10,11 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/highlights-dark.svg?v=2">
-  <img src="./assets/highlights-light.svg?v=2" width="100%" alt="럭타임 월 사용자 1만, Another Universe 출시 첫 주 2천 명, ABTO 인터뷰 30여 팀, 핀다 백오피스 7개 통합">
-</picture>
-
-<br>
-
 ## Projects
 
 <table>
-  <tr><td><b>ABTO</b></td><td>LLM 모델 A/B 테스트 게이트웨이</td></tr>
-  <tr><td><b>럭타임</b></td><td>티켓팅용 서버시간 조회 서비스</td></tr>
+  <tr><td><a href="https://github.com/greedy-co"><b>ABTO</b></a></td><td>LLM 모델 A/B 테스트 게이트웨이</td></tr>
+  <tr><td><a href="https://luckti.me"><b>럭타임</b></a></td><td>티켓팅용 서버시간 조회 서비스</td></tr>
   <tr><td><a href="https://github.com/AnotherUniverseAU"><b>Another Universe</b></a></td><td>캐릭터 AI 채팅 앱, 공동창업</td></tr>
   <tr><td><a href="https://github.com/cucumber5252/Automatic_Document_Classification_Program"><b>공문 자동 분류</b></a></td><td>OCR 기반 문서 분류 자동화</td></tr>
 </table>
