@@ -40,7 +40,14 @@
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=py,ts,go,kotlin,java,nestjs,fastapi,django,spring,react,nextjs,postgres,mongodb,redis,aws,azure,docker,vercel&perline=9" height="88">
+<table>
+  <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=go,kotlin,ts,py,java" height="40"></td></tr>
+  <tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=spring,nestjs,fastapi,django,express" height="40"></td></tr>
+  <tr><td><b>Frontend &amp; App</b></td><td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" height="40"></td></tr>
+  <tr><td><b>AI &amp; Data</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,postgres,redis,mongodb,mysql" height="40"></td></tr>
+  <tr><td><b>Infra</b></td><td><img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,githubactions,vercel" height="40"></td></tr>
+  <tr><td><b>Observability</b></td><td><img src="https://skillicons.dev/icons?i=prometheus,grafana,sentry" height="40"></td></tr>
+</table>
 
 <br>
 
