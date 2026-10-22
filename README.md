@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:kdhyeok52@gmail.com"><img src="https://img.shields.io/badge/Email-kdhyeok52@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/donghyuk-kang-3b7926290/"><img src="https://img.shields.io/badge/LinkedIn-Donghyuk_Kang-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/donghyuk-kang-3b7926290"><img src="https://img.shields.io/badge/LinkedIn-Donghyuk_Kang-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <br>
